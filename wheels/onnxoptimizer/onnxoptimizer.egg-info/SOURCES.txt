@@ -1,0 +1,7 @@
+onnxoptimizer.py
+setup.py
+onnxoptimizer.egg-info/PKG-INFO
+onnxoptimizer.egg-info/SOURCES.txt
+onnxoptimizer.egg-info/dependency_links.txt
+onnxoptimizer.egg-info/requires.txt
+onnxoptimizer.egg-info/top_level.txt

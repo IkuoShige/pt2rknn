@@ -1,0 +1,4 @@
+[submodule "HoST"]
+	path = HoST
+	url = https://github.com/IkuoShige/HoST.git
+	branch = feat/pi-ground-flat-feet
